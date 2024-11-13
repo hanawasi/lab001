@@ -10,6 +10,6 @@ public class MultiplicationTable {
             System.out.println(number + " x " + i + " = " + (number * i));
             
         }
-        System.out.println("Hana wasi");
+        System.out.println("Hana wasi1");
     }
 }
